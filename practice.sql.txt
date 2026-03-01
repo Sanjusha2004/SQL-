@@ -1,0 +1,12 @@
+-- Day 1 Practice Queries
+
+-- 1. Creating a simple table (Example)
+CREATE TABLE Students (
+    ID INT,
+    Name VARCHAR(50),
+    Marks INT
+);
+
+-- 2. Viewing all data
+SELECT * FROM Students;
+
